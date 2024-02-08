@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mamane Housseini (say "HouS-Seine")
+- Click on REPOSITORIES to see more
 - 👀 I’m interested in Backend Dev,Operating Systems(in priority Linux) & Infrastructure 
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on Backend 
